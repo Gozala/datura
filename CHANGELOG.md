@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/commontoolsinc/synopsys/compare/v1.3.0...v1.3.1) (2024-09-26)
+
+
+### Bug Fixes
+
+* CORS to allow use from other hosts ([96c04ec](https://github.com/commontoolsinc/synopsys/commit/96c04ecadaf3f54dd8b2a73c3f96afeaf05ea0e2))
+
 ## [1.3.0](https://github.com/commontoolsinc/synopsys/compare/v1.2.0...v1.3.0) (2024-09-25)
 
 
